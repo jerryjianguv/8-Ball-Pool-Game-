@@ -1,20 +1,36 @@
- 
-1. Project Description
+# 8 Ball Pool Game
 
-Project Name: 8 Ball Pool Game!
+Welcome to the 8 Ball Pool Game project! This is a fun and interactive 2-player game that simulates the classic 8 Ball Pool experience. You can challenge a friend or play against an AI opponent. The game features realistic physics and follows the general rules of 8 Ball Pool. Are you ready to test your skills and become the ultimate pool champion?
 
-Project Description: A fun 2 Player 8 Ball Pool Game that follows the general rules of 8 ball Pool Game. The Player could choose to move the mouse to find appropriate force and angle, and press the mouse to release the cue stick to hit the cue ball. Whoever first knocks in all the pool balls(without violating the general 8 ball pool rules) wins. There are two game modes: Two Player Mode(Player 1 vs Player 2), and One player Mode (Player 1 vs Adversary AI).
+## Project Description
 
-Press Space to start the game, and Click the mouse to choose a mode you would like to have fun with. At anytime, press H to proceed to the helper mode to check the rules and help message.
+### Features:
+- Realistic 2D physics for accurate ball movement and collision.
+- Two exciting game modes: Two Player Mode (Player vs. Player) and One Player Mode (Player vs. Adversary AI).
+- Intuitive controls: Use your mouse to aim, adjust the force, and strike the cue ball.
+- Press Space to start the game.
+- Choose your game mode by clicking the mouse.
+- Access the helper mode anytime by pressing 'H' to review the rules and instructions.
 
-2. How to run the project?
+### How to Play:
+- In Two Player Mode, you can compete with a friend. The first player to sink all their assigned balls while following 8 Ball Pool rules wins.
+- In One Player Mode, you face off against an AI opponent, trying to clear your balls before the AI player sinks theirs.
 
-Download all the files in the zip file, run 8BallPool.py in VS code as you would do running other python files.
+### Rules:
+- Stick to the general 8 Ball Pool rules for a fair game.
+- Use your mouse to control the cue stick, adjusting the angle and force for each shot.
+- Avoid fouls like potting the white ball or not hitting any balls.
+- Call your pocket when sinking the 8 ball to win the game.
 
-3. Libraries needed:
+### How to Run the Project
 
-Download and install pygame to play the background sounds.
+1. Download all the project files from the provided zip folder.
+2. Open your preferred Python editor or IDE (e.g., Visual Studio Code).
+3. Run the `8BallPool.py` file as you would any other Python script.
 
-4. ShortCut Command that exists:
+### Required Libraries
 
-There are none.
+Make sure you have the Pygame library installed to enjoy the background sounds and smooth gameplay. You can install it using pip:
+
+```bash
+pip install pygame
