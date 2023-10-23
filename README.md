@@ -16,6 +16,10 @@ Welcome to the 8 Ball Pool Game project! This is a fun and interactive 2-player 
 - In Two Player Mode, you can compete with a friend. The first player to sink all their assigned balls while following 8 Ball Pool rules wins.
 - In One Player Mode, you face off against an AI opponent, trying to clear your balls before the AI player sinks theirs.
 
+### Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/vNOWIqR3a1s/0.jpg)](https://www.youtube.com/watch?v=vNOWIqR3a1s)
+
 ### Rules:
 - Stick to the general 8 Ball Pool rules for a fair game.
 - Use your mouse to control the cue stick, adjusting the angle and force for each shot.
