@@ -34,3 +34,18 @@ Make sure you have the Pygame library installed to enjoy the background sounds a
 
 ```bash
 pip install pygame
+```
+
+### Shortcut Commands
+This project does not include any shortcut commands. You can control the game entirely using the mouse and keyboard.
+
+### Contributing
+If you're interested in contributing to this project, feel free to submit pull requests or raise issues on the GitHub repository.
+
+### License
+This project is open-source and available under the MIT License. Feel free to modify and distribute it according to the terms of the license.
+
+### Acknowledgments
+Special thanks to the Pygame library for making it possible to create this exciting 8 Ball Pool Game. Enjoy and have fun! If you need any assistance, don't forget to check the helper mode by pressing 'H' during the game.
+
+Good luck, and may the best player win! 🎱
